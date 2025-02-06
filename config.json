@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "dominator rules",
+            "dominator rules",
+            "dominator rules",
+            "dominator rules"
+        ],
+        "roles_name": [
+            "dominator rules",
+            "dominator rules",
+            "dominator rules"
+        ],
+        "messages_content": [
+            "@everyone discord.gg/rascalsop",
+            "@everyone discord.gg/rascalsop",
+            "@everyone discord.gg/rascalsop"
+        ]
+    }
+}
