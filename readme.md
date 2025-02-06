@@ -5,7 +5,7 @@
 # then install dominator-nuker
 # then open command promt
 # write pip install -r requirements.txt to install all PIPs
-# then write py dominator nuker.py
+# then open dominator nuker.exe
 # then enjoy!
 # if you have any problem
 # dm @ravneet.fy
